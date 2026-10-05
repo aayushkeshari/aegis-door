@@ -4,9 +4,9 @@
 **Course:** CS 5167 — User Interface Design  
 **Project:** Project 1 (Interface to a Smart Object)  
 
-- **Live Application:** [https://YOUR-APP-NAME.vercel.app](https://YOUR-APP-NAME.vercel.app)
-- **Source Code Repository:** [https://github.com/aayushkeshari/aegis-door](https://github.com/aayushkeshari/aegis-door)
-- **Video Walkthrough (2–3 min):** [https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/YOUR_VIDEO_ID)
+- **Live Application:** (https://aegis-door.vercel.app/)
+- **Source Code Repository:** (https://github.com/aayushkeshari/aegis-door)
+- **Video Walkthrough (2–3 min):** []
 
 ---
 
