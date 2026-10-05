@@ -1,7 +1,7 @@
 # AegisDoor: Smart Residential Entryway System
 
 **Author:** Aayush Keshari  
-**Course:** CS 5167 — User Interface Design  
+**Course:** CS 5167 User Interface Design  
 **Project:** Project 1 (Interface to a Smart Object)  
 
 - **Live Application:** (https://aegis-door.vercel.app/)
