@@ -64,4 +64,4 @@ Built with **Svelte**, **JavaScript**, and **Vite**, structured around a single 
 ---
 
 ## 6. AI Documentation
-AI assistance (Gemini) was utilized as an interactive design and coding thought partner throughout this project. It helped ideate the multi-surface interface layout, verify Norman's design affordance mappings, write the Svelte prototype code and simulation harness, and resolve cross-platform build configuration errors between macOS ARM64 and Linux deployment environments.
+AI assistance (ChatGPT and Claude Code) was utilized as a coding assistant in this project. It specifically helped resolve cross-platform build configuration errors between macOS ARM64 and Linux deployment environments.
